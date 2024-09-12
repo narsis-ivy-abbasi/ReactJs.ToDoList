@@ -1,0 +1,71 @@
+.delete-Btn-style {
+  background-color: lightcoral;
+  border: 0;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: white;
+}
+
+.delete-Btn-style:hover {
+  background-color: rgb(231, 194, 194);
+  color: black;
+}
+
+.add-btn-style {
+  background-color: green;
+  border: 0;
+  border-radius:5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: white;
+  width: 100%;
+}
+
+.add-btn-style:hover {
+  background-color: rgb(231, 194, 194);
+  color: black;
+}
+
+.txt-input-style {
+  height: 22px;
+  border: 0.1px solid lightgray;
+  width: 98%;
+}
+
+.item-style {
+  display: flex;
+  margin: 5px;
+  padding: 5px;
+  border-bottom: 0.1px solid #f8f8f8;
+}
+
+.to-do-list-style {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  border-bottom: 0.1px solid #f8f8f8;
+  padding: 10px 0px;
+}
+
+.main-style {
+  width: 400px;
+  border: 1px solid beige;
+  padding: 5px;
+}
+
+.control-style {
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+}
+
+
+
+.no-to-do {
+  padding: 5px;
+  text-align: center;
+  background-color: rgb(231, 194, 194);
+  border-radius: 5px;
+}
